@@ -6,7 +6,7 @@
 
 **Doraemon's 4D Study Pocket** is a next-generation AI tutor prototype that brings the iconic robot cat to life. Built using **Google Gemini 2.5 Flash** and **Streamlit**, this application demonstrates advanced prompt engineering and real-time LLM interaction to help students (aka "Nobita") with their daily learning.
 
-
+![Doraemon App Screenshot](screenshot.png.png)
 
 ---
 
@@ -33,5 +33,5 @@ To run this project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Doraemon-Study-AI.git](https://github.com/YOUR_USERNAME/Doraemon-Study-AI.git)
+   git clone [https://github.com/deepadharshinibalamurugan/Doraemon-Study-AI.git](https://github.com/deepadharshinibalamurugan/Doraemon-Study-AI.git)
    cd Doraemon-Study-AI
