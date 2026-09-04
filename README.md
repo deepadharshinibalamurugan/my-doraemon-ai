@@ -1,6 +1,7 @@
 # 🐱 Doraemon's 4D Study Pocket: AI Persona Assistant
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)]https://your-app-link.streamlit.app/
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)]
+https://my-doraemon-ai-nhc6dlabsajjlz9hll79b4.streamlit.app/
 [![Model](https://img.shields.io/badge/Model-Gemini%202.5%20Flash-blue)](https://ai.google.dev/)
 [![Python](https://img.shields.io/badge/Python-3.14-green)](https://www.python.org/)
 
